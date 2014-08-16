@@ -30,7 +30,7 @@ resources:
   bugtracker: https://github.com/swuecho/Net-MW-API/issues
   homepage: https://github.com/swuecho/Net-MW-API
   repository: https://github.com/swuecho/Net-MW-API.git
-version: '0.10'
+version: '0.11'
 x_contributors:
   - 'Hao <echowuhao@gmail.com>'
   - 'Hao Wu <hwu@intellisurvey.com>'
